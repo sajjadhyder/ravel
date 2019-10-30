@@ -1,0 +1,15 @@
+User-agent: * 
+Disallow: /css/ 
+Disallow: /img/ 
+Disallow: /js/
+Disallow: /mail/
+Disallow: /scss/
+Disallow: /vendor/
+Disallow: /blog.html
+Disallow: /blog-1.html
+Disallow: /CNAME
+Disallow: /index-old.html
+Disallow: /LICENSE
+Disallow: /package.json
+Disallow: /package-lock.json
+Disallow: /README.md
